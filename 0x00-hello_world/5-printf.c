@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
- * main - acts as the starting point for program execution 
+ * main -acts as the starting point for program execution
  *
- * Return - specify the value that the function will return when it is called
+ * Return: 0 specify the value that the function will return when it is called
  */
 int main(void)
 {
