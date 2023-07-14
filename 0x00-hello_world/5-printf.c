@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
  * main -acts as the starting point for program execution
  *
  * Return: 0 specify the value that the function will return when it is called
  */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,");
