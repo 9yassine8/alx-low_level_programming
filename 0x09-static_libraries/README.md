@@ -1,0 +1,1 @@
+Static libraries are created using the ar tool and can be manipulated with other archive-related commands such as ranlib to generate an index. They are linked with the program at compile-time, and the entire code from the static library is copied into the final executable, making the program self-contained and independent of external dependencies during runtime.
