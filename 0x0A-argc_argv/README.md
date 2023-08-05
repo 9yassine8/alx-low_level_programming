@@ -1,0 +1,1 @@
+argc It is an integer that represents the number of command-line arguments passed to the program, including the name of the program itself, argv It is an array of strings (character pointers) that contains the actual command-line arguments passed to the program
