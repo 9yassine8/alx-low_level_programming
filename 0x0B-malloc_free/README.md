@@ -1,0 +1,1 @@
+malloc is a function that is used to allocate a specified amount of memory from the heap. It returns a pointer to the beginning of the allocated memory block. free this function is used to release the memory previously allocated using malloc or related functions
